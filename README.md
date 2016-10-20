@@ -1,11 +1,6 @@
-### Semi-maintained
+This is a fork of Tim Jarratt's fork of StreamCenter by Olivier Boucher.
 
-I, Tim Jarratt, have started to maintain this application because I've valued using
-this on my own AppleTV. There is a version in the app store currently under Olivier's
-name, but I don't currently have any easy way of updating it.
-
-My intent is to keep the project alive, adding a few features when possible, and ensuring
-it can be run in a modern version of Swift and compiled with an up-to-date version of Xcode.
+Building on Tim's work, this aims to simply maintain StreamCenter for AppleTV for my personal use.
 
 # StreamCenter
 
